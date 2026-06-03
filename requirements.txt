@@ -1,0 +1,21 @@
+selenium
+webdriver-manager
+pandas<3
+openpyxl
+python-dotenv
+groq
+sounddevice
+soundfile
+pyttsx3
+edge-tts
+soundcard
+keyboard
+numpy<2.3
+pytest
+pytest-mock
+# Web frontend
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+httpx
